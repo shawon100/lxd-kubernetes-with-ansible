@@ -1,7 +1,7 @@
 ## Clone this github repo:
 
 ```
-git clone https://github.com/sayems/lxc.resources.git
+git clone https://github.com/shawon100/lxd-kubernetes-with-ansible
 
 ```
 
